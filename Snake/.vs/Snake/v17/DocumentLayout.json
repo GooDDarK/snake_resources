@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "H:\\Visual Projects\\snake_resources\\Snake\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8E30FF9B-B98B-4989-BA5A-458A6098070A}|Snake.csproj|h:\\visual projects\\snake_resources\\snake\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E30FF9B-B98B-4989-BA5A-458A6098070A}|Snake.csproj|solutionrelative:snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E30FF9B-B98B-4989-BA5A-458A6098070A}|Snake.csproj|h:\\visual projects\\snake_resources\\snake\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E30FF9B-B98B-4989-BA5A-458A6098070A}|Snake.csproj|solutionrelative:figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E30FF9B-B98B-4989-BA5A-458A6098070A}|Snake.csproj|h:\\visual projects\\snake_resources\\snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E30FF9B-B98B-4989-BA5A-458A6098070A}|Snake.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E30FF9B-B98B-4989-BA5A-458A6098070A}|Snake.csproj|h:\\visual projects\\snake_resources\\snake\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E30FF9B-B98B-4989-BA5A-458A6098070A}|Snake.csproj|solutionrelative:dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E30FF9B-B98B-4989-BA5A-458A6098070A}|Snake.csproj|h:\\visual projects\\snake_resources\\snake\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E30FF9B-B98B-4989-BA5A-458A6098070A}|Snake.csproj|solutionrelative:direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E30FF9B-B98B-4989-BA5A-458A6098070A}|Snake.csproj|h:\\visual projects\\snake_resources\\snake\\horizontalline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E30FF9B-B98B-4989-BA5A-458A6098070A}|Snake.csproj|solutionrelative:horizontalline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E30FF9B-B98B-4989-BA5A-458A6098070A}|Snake.csproj|h:\\visual projects\\snake_resources\\snake\\verticalline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E30FF9B-B98B-4989-BA5A-458A6098070A}|Snake.csproj|solutionrelative:verticalline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +46,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "H:\\Visual Projects\\snake_resources\\Snake\\Direction.cs",
+              "RelativeDocumentMoniker": "Direction.cs",
+              "ToolTip": "H:\\Visual Projects\\snake_resources\\Snake\\Direction.cs",
+              "RelativeToolTip": "Direction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:50:47.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "H:\\Visual Projects\\snake_resources\\Snake\\Snake.cs",
+              "RelativeDocumentMoniker": "Snake.cs",
+              "ToolTip": "H:\\Visual Projects\\snake_resources\\Snake\\Snake.cs",
+              "RelativeToolTip": "Snake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:47:28.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "H:\\Visual Projects\\snake_resources\\Snake\\Figure.cs",
+              "RelativeDocumentMoniker": "Figure.cs",
+              "ToolTip": "H:\\Visual Projects\\snake_resources\\Snake\\Figure.cs",
+              "RelativeToolTip": "Figure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:43:58.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VerticalLine.cs",
+              "DocumentMoniker": "H:\\Visual Projects\\snake_resources\\Snake\\VerticalLine.cs",
+              "RelativeDocumentMoniker": "VerticalLine.cs",
+              "ToolTip": "H:\\Visual Projects\\snake_resources\\Snake\\VerticalLine.cs",
+              "RelativeToolTip": "VerticalLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:54:21.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dot.cs",
+              "DocumentMoniker": "H:\\Visual Projects\\snake_resources\\Snake\\Dot.cs",
+              "RelativeDocumentMoniker": "Dot.cs",
+              "ToolTip": "H:\\Visual Projects\\snake_resources\\Snake\\Dot.cs",
+              "RelativeToolTip": "Dot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:19:23.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HorizontalLine.cs",
+              "DocumentMoniker": "H:\\Visual Projects\\snake_resources\\Snake\\HorizontalLine.cs",
+              "RelativeDocumentMoniker": "HorizontalLine.cs",
+              "ToolTip": "H:\\Visual Projects\\snake_resources\\Snake\\HorizontalLine.cs",
+              "RelativeToolTip": "HorizontalLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:57:40.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\Visual Projects\\snake_resources\\Snake\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "H:\\Visual Projects\\snake_resources\\Snake\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T14:06:19.22Z",
               "EditorCaption": ""
